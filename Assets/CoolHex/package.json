@@ -1,0 +1,11 @@
+{
+  "name": "com.flupppi.coolhex",
+  "displayName": "CoolHex",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "An Editor and accompanied tools that can be used for creating Hex Maps for a Game.",
+  "keywords": [ "Hex", "Editor", "Map" ],
+  "author": "Felix Kalchschmid",
+  "email": "flupppi@posteo.net",
+  "url": "https://github.com/flupppi/Hex"
+}

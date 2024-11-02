@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d92c7f668628f5f31b7e0cc3a34ee9f0, type: 3}
-  m_Name: New Hex Map Asset
+  m_Name: Default Map
   m_EditorClassIdentifier: 
   HexFields:
   - Weight: 1
