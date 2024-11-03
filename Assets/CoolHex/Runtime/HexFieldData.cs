@@ -11,4 +11,5 @@ namespace flupppi.CoolHex
         public Vector2 Position; // Grid position
                                  // Other parameters
     }
+
 }

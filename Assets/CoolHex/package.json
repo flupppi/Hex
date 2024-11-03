@@ -1,11 +1,24 @@
 {
   "name": "com.flupppi.coolhex",
   "displayName": "CoolHex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "2021.2",
   "description": "An Editor and accompanied tools that can be used for creating Hex Maps for a Game.",
   "keywords": [ "Hex", "Editor", "Map" ],
   "author": "Felix Kalchschmid",
   "email": "flupppi@posteo.net",
-  "url": "https://github.com/flupppi/Hex"
+  "url": "https://github.com/flupppi/Hex",
+  "samples": [
+    {
+      "displayName": "Basic Hex Editor",
+      "description": "Contains a minimal implementation for the Hex Editor, with assets to make it work. This can be a good basis to build your own Editor from",
+      "path": "Samples~/BasicHex"
+    },
+    {
+      "displayName": "Advanced Hex Editor",
+      "description": "Contains a sample implementation for the Editor with additional functionality",
+      "path": "Samples~/AdvancedHex"
+    }
+  ]
+
 }

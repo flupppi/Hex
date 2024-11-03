@@ -1,0 +1,14 @@
+{
+    "name": "flupppi.CoolHex.Editor",
+    "references": ["flupppi.CoolHex"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+    ],
+    "noEngineReferences": false
+}
