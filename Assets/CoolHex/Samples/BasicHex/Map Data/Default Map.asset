@@ -45,9 +45,6 @@ MonoBehaviour:
     Position: {x: 0, y: 9}
   - Weight: 1
     IsBlocked: 0
-    Position: {x: 0, y: 10}
-  - Weight: 1
-    IsBlocked: 0
     Position: {x: 1, y: 0}
   - Weight: 1
     IsBlocked: 0
@@ -76,9 +73,6 @@ MonoBehaviour:
   - Weight: 1
     IsBlocked: 0
     Position: {x: 1, y: 9}
-  - Weight: 1
-    IsBlocked: 0
-    Position: {x: 1, y: 10}
   - Weight: 1
     IsBlocked: 0
     Position: {x: 2, y: 0}
@@ -111,9 +105,6 @@ MonoBehaviour:
     Position: {x: 2, y: 9}
   - Weight: 1
     IsBlocked: 0
-    Position: {x: 2, y: 10}
-  - Weight: 1
-    IsBlocked: 0
     Position: {x: 3, y: 0}
   - Weight: 1
     IsBlocked: 0
@@ -144,9 +135,6 @@ MonoBehaviour:
     Position: {x: 3, y: 9}
   - Weight: 1
     IsBlocked: 0
-    Position: {x: 3, y: 10}
-  - Weight: 1
-    IsBlocked: 0
     Position: {x: 4, y: 0}
   - Weight: 1
     IsBlocked: 0
@@ -170,14 +158,11 @@ MonoBehaviour:
     IsBlocked: 0
     Position: {x: 4, y: 7}
   - Weight: 1
-    IsBlocked: 1
+    IsBlocked: 0
     Position: {x: 4, y: 8}
   - Weight: 1
     IsBlocked: 0
     Position: {x: 4, y: 9}
-  - Weight: 1
-    IsBlocked: 0
-    Position: {x: 4, y: 10}
   - Weight: 1
     IsBlocked: 0
     Position: {x: 5, y: 0}
@@ -197,7 +182,7 @@ MonoBehaviour:
     IsBlocked: 0
     Position: {x: 5, y: 5}
   - Weight: 1
-    IsBlocked: 1
+    IsBlocked: 0
     Position: {x: 5, y: 6}
   - Weight: 1
     IsBlocked: 0
@@ -208,9 +193,6 @@ MonoBehaviour:
   - Weight: 1
     IsBlocked: 0
     Position: {x: 5, y: 9}
-  - Weight: 1
-    IsBlocked: 0
-    Position: {x: 5, y: 10}
   - Weight: 1
     IsBlocked: 0
     Position: {x: 6, y: 0}
@@ -227,7 +209,7 @@ MonoBehaviour:
     IsBlocked: 0
     Position: {x: 6, y: 4}
   - Weight: 1
-    IsBlocked: 1
+    IsBlocked: 0
     Position: {x: 6, y: 5}
   - Weight: 1
     IsBlocked: 0
@@ -241,9 +223,6 @@ MonoBehaviour:
   - Weight: 1
     IsBlocked: 0
     Position: {x: 6, y: 9}
-  - Weight: 1
-    IsBlocked: 0
-    Position: {x: 6, y: 10}
   - Weight: 1
     IsBlocked: 0
     Position: {x: 7, y: 0}
@@ -276,9 +255,6 @@ MonoBehaviour:
     Position: {x: 7, y: 9}
   - Weight: 1
     IsBlocked: 0
-    Position: {x: 7, y: 10}
-  - Weight: 1
-    IsBlocked: 0
     Position: {x: 8, y: 0}
   - Weight: 1
     IsBlocked: 0
@@ -309,6 +285,33 @@ MonoBehaviour:
     Position: {x: 8, y: 9}
   - Weight: 1
     IsBlocked: 0
-    Position: {x: 8, y: 10}
-  Width: 9
-  Height: 11
+    Position: {x: 9, y: 0}
+  - Weight: 1
+    IsBlocked: 0
+    Position: {x: 9, y: 1}
+  - Weight: 1
+    IsBlocked: 0
+    Position: {x: 9, y: 2}
+  - Weight: 1
+    IsBlocked: 0
+    Position: {x: 9, y: 3}
+  - Weight: 1
+    IsBlocked: 0
+    Position: {x: 9, y: 4}
+  - Weight: 1
+    IsBlocked: 0
+    Position: {x: 9, y: 5}
+  - Weight: 1
+    IsBlocked: 0
+    Position: {x: 9, y: 6}
+  - Weight: 1
+    IsBlocked: 0
+    Position: {x: 9, y: 7}
+  - Weight: 1
+    IsBlocked: 0
+    Position: {x: 9, y: 8}
+  - Weight: 1
+    IsBlocked: 0
+    Position: {x: 9, y: 9}
+  Width: 10
+  Height: 10
