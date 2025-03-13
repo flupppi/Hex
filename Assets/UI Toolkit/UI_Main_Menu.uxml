@@ -1,3 +1,6 @@
 <engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <engine:Label text="Main Menu&#10;&#10;" name="Game" style="background-color: rgb(255, 250, 0); align-self: flex-start;" />
+    <engine:Button text="Start Game" />
+    <engine:Button text="Quit" />
+    <engine:DropdownField label="Select Level" />
 </engine:UXML>

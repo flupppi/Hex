@@ -1,3 +1,9 @@
 <engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
     <engine:Label text="Game&#10;" name="Game" style="background-color: rgb(255, 250, 0); align-self: flex-start;" />
+    <engine:VisualElement style="flex-grow: 1;" />
+    <engine:VisualElement style="flex-grow: 1; flex-direction: column; align-content: auto; align-self: auto; justify-content: flex-start; top: auto;">
+        <engine:Button text="Settings" enabled="true" style="-unity-text-align: middle-center;" />
+        <engine:Button text="Turn" />
+        <engine:Button text="Accept" />
+    </engine:VisualElement>
 </engine:UXML>
