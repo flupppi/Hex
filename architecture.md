@@ -33,6 +33,10 @@ There will be different kinds of scenes.
 This Logic core is one central element collecting data, and processing it to make deterministic decisions about the next step in the game. 
 * The goal of the logic core is to be deterministic. Each state in the game should be able to be replicated by following the same steps with the same random base seed. This also makes debugging possible, but it requires a strict way of representing everything that can happen in the game though calculations on it's raw available data.
 
+**Scripts:**
+* Core: Script setting up the players, the level, the game rules and updating these each step.
+* Player: Script attached to the player handling it's state, visual appearance, position.
+
 ### Hexagonal Map
 The hexagonal map is designed in a specially created level editor.
 
